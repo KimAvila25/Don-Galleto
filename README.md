@@ -3,3 +3,5 @@ Respository individuales del proyecto "Don Galleto" del cuatrimestre Sep-Dic 202
 
 Actualizacion 22 nov 24
 Kim251221 prueba github
+
+hola prueba git
